@@ -1,5 +1,5 @@
 name: uber_eats_scrolling_tabs
-description: An app that demonstrate how to achieve the scrolling tab bar effect as we see on uber eats.
+description: An app that demonstrates how to achieve the scrolling tab bar effect as we see on uber eats.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
