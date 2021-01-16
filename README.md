@@ -1,5 +1,6 @@
 # uber_eats_scrolling_tabs
-#### Author
+#### Author: Mithun Adhikari
+#### Website: https://mithunadhikari.com.np
 <p align="center">
   <kbd>
 <img src="./assets/demo.gif"></img>
